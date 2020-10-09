@@ -1,0 +1,13 @@
+title: Writ 1 <br> Section 10
+logo: /images/phys-logo.png
+description: Harvey Mudd College
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+relative_links:
+  enabled:     true
+  collections: false
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  parse_block_html: true
