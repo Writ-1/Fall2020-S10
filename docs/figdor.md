@@ -22,12 +22,16 @@ The article appears in the journal *Frontiers in Communication*. According to th
 "Frontiers in Communication publishes rigorously peer-reviewed research in areas including Political, Health, Culture, and Science and Environmental Communication."
 
 
+--------------------------------
+
 #### Mini-question: Context
 [*Click here to open in a new tab*](https://forms.gle/vEYetY7Y9yn6FKMs5){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCPls3najDxvk-w7F0ADpwYddhw9Q7ZXhoBGP2wz6DGi1V2w/viewform?embedded=true" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------------
+
+------------------------------
 
 ## Post-reading
 
