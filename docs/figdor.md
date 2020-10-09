@@ -1,6 +1,8 @@
 # Figdor
 
-[Article pdf](https://drive.google.com/file/d/1HeVt66YVg_lz3ZbBETEUYBvFlm_-VuI1/view?usp=sharing)
+Figdor, Carrie. "(When) is science reporting ethical? The case for recognizing shared epistemic responsibility in science journalism." *Frontiers in Communication* 2 (2017): 3.
+
+Before you read [the article pdf here](https://drive.google.com/file/d/1HeVt66YVg_lz3ZbBETEUYBvFlm_-VuI1/view?usp=sharing){:target="_blank"}, please read the important information below.
 
 
 ## Context 
