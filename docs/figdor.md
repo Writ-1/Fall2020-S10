@@ -81,6 +81,6 @@ Make a final pass of your annotated copy of Figdor, and make notes about how you
 
 + How does a QRP differ from outright fraud?
 
-+ Is it clear from the article whether Figdor views the role of journalists as "cheerleaders" or "watchdogs"?
++ Is it clear from the article whether Figdor views the role of journalists as "cheerleaders" or "watchdogs" of science?
 
 + What aspects of Figdor seem unclear to you? What would you like to discuss with your classmates?
