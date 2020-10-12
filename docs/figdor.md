@@ -73,12 +73,12 @@ Make a final pass of your annotated copy of Figdor, and make notes about how you
 
 + In your own words, attempt to summarize the problem that Figdor is trying to address.
 
-+ How does a QRP differ from outright fraud?
-
-+ What is the problem with journalistic balance in science media? Does Figdor necessarily think journalistic balance is a bad thing?
-
 + What is Figdor's proposed solution? What part applies to journalists? Do any parts apply to scientists?
 
 + What is the lay stance? Why is it problematic for journalists?
+
++ What is the problem with journalistic balance in science media? Does Figdor necessarily think journalistic balance is a bad thing?
+
++ How does a QRP differ from outright fraud?
 
 + What aspects of Figdor seem unclear to you? What would you like to discuss with your classmates?
