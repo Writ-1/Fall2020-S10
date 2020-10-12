@@ -71,7 +71,7 @@ Once you are finished with your annotations, please [upload a pdf of your annota
 
 Make a final pass of your annotated copy of Figdor, and make notes about how you might answer the following discussion questions **with evidence from the text**. We will ask you about these in our class discussion on Wednesday, so have your notes handy for Wednesday's class.
 
-+ In your own words, attempt to summarize the problem that Figdor is trying to address.
++ In your own words, summarize the problem that Figdor is trying to address.
 
 + What is Figdor's proposed solution? What part applies to journalists? Do any parts apply to scientists?
 
