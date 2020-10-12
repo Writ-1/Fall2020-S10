@@ -41,7 +41,7 @@ As a quick check to see if you have the right context, answer the following ques
 
 Now that we have some context for the article, we can take a first pass reading of the article. [Download the pdf of the article here.](https://drive.google.com/file/d/1HeVt66YVg_lz3ZbBETEUYBvFlm_-VuI1/view?usp=sharing){:target="_blank"} Make sure you save a copy on your computer! If you don't have a tablet, you may want to print it out to make annotations with a pen/pencil. On this first-pass, you should only lightly annotate the document, but don't make any major annotations yet. You may just want to circle unfamiliar vocabulary or concepts though.
 
-For example, the word "epistemic" means "relating to knowledge or to the degree of its validation". Although Figdor uses this word quite often, you can delete that word from any sentence in Figdor without changing the meaning. So we suggest that you ignore the word epistemic if you find it distracting.
+For example, the word "epistemic" means "relating to knowledge or to the degree of its validation". Although Figdor uses this word quite often, you can delete that word from any sentence in Figdor without significantly changing the meaning. So we suggest that you ignore the word epistemic if you find it distracting.
 
 After you have finished the first-pass reading, answer the following two questions. **The wording is subtle, so please read carefully!**
 
@@ -69,7 +69,9 @@ Once you are finished with your annotations, please [upload a pdf of your annota
 
 ## Third-pass reading
 
-Make a final pass of your annotated copy of Figdor, and make notes about how you might answer the following discussion questions with evidence from the text. We will ask you about these in our class discussion on Wednesday, so have your notes handy for Wednesday's class.
+Make a final pass of your annotated copy of Figdor, and make notes about how you might answer the following discussion questions **with evidence from the text**. We will ask you about these in our class discussion on Wednesday, so have your notes handy for Wednesday's class.
+
++ In your own words, attempt to summarize the problem that Figdor is trying to address.
 
 + How does a QRP differ from outright fraud?
 
