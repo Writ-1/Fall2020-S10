@@ -47,7 +47,8 @@ As a quick check to see if you have the right context, answer the following ques
 
 Now that we have some context for the article, we can take a first pass reading of the article. [Download the pdf of the article here.](https://drive.google.com/file/d/1-7P587RK4vVWd0OIr7tV-1g5sikIr17V/view?usp=sharing){:target="_blank"} As before, make sure you save a copy on your computer, and on this first-pass, you should lightly annotate the document, without making any major annotations yet. You may just want to circle unfamiliar vocabulary or concepts though.
 
-After you have finished the first-pass reading, answer the following two questions. **The wording is subtle, so please read carefully!**
+After you have finished the first-pass reading, answer the following questions. 
+
 
 #### Mini-question: What does Kahan claim?
 [*Click here to open in a new tab*](https://forms.gle/4EX8g37xGfnVxSSJ8){:target="_blank"}
@@ -75,7 +76,12 @@ Once you are finished with your annotations, please [upload a pdf of your annota
 Make a final pass of your annotated copy of Kahan, and make notes about how you might answer the following discussion questions **with evidence from the text**. We will ask you about these in our class discussion on Friday, so have your notes handy for Friday's class.
 
 
-+ Looking at Figure 6, for issues that are unpolarized (e.g. radio wave risk from cell phones), is there any difference in the perception of risk between liberal/democrats compared to conservative/republicans? 
++ In your own words, summarize the problem that Kahan is trying to address.
+
++ What are the two main claims Kahan puts forward in his article? 
+
++ What is "Popper's revenge" and how does it relate to Kahan's claims?
+
++ Looking at Figures 5 & 6, for issues that are unpolarized (e.g. radio wave risk from cell phones), is there any difference in the perception of risk between liberal/democrats compared to conservative/republicans?  Does lack of polarization implies that members of the general public largely agree in their assessment of risk in these cases?
 
 + Does Kahan think that people undergo a different decision making process when assessing the risk of unpolarized issues compared to polarized issues?
-
