@@ -10,6 +10,8 @@
 
 [Figdor article pdf](https://drive.google.com/file/d/1HeVt66YVg_lz3ZbBETEUYBvFlm_-VuI1/view?usp=sharing){:target="_blank"}
 
+[Zoom discussion chat window](images/Figdor-discussion-annonymized-public-Zoom-chat.txt){:target="_blank"} (annonymized)
+
 <br>
 
 ### Kahan

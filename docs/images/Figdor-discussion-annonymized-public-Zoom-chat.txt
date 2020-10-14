@@ -1,0 +1,105 @@
+Quickwrite:
+
+What aspects of Figdor seem unclear to you? What would you like to discuss with your classmates?
+
+In your own words, summarize the problem that Figdor is trying to address.
+
+
+Figdor is trying to address the issue of inaccurate news in the scientific news community to the public
+
+Figdor is trying to address the problem of unreliable science being reported. This is a problem arising from both the issues with scientific papers and the lack of vetting that journalists exercise. (p.1: “Boffey’s remarks… Unfortunately, this trust is no longer clearly justified…”)
+
+As a short summary: Figdor tries to address the epistemic responsibilities of scientists and journalists.
+
+Science has nuanced questionable research practices which can bias studies and even entire fields, and scientific journalists currently lack the scientific literacy to make judgements when delivering this content to the public, so the public receives faulty or misrepresented science
+
+Figdor addresses the idea that science journalism is flawed because of our approach to science. “Unfortunately, this trust is no longer clearly justified in many fields of scientific research.” When it comes to science reporting, it is no longer possible for journalists to make assumptions about the trustworthiness of science, and they are not equipped to analyze science. This leads to mass misreporting, and lack of public trust in science.
+
+It’s not exactly something I’m unclear on, but I’d be interested to know more about the studies on the prevalence of questionable research practices in various fields of research. This was definitely something that surprised me about the paper – I guess I’m used to having the idea in my head that science is a rigorous field that generally avoids issues such as manipulating data to achieve a desired result.
+
+The problem that figdor attempts to address is the invalidity of scientific journalism
+
+The lack of accurate science reporting due to both journalistic and scientific practices
+
+Figdor is trying to address the problem of unreliable journalism regarding scientific research and inaccurate science new being portrayed to the public
+
+Figdor is trying to address the accuracy of accurate journalism and works to find ways to solve the problem of “fake news"
+
+Science is unreliable due to QRPs and the current norms and lack of expertise of journalists prevent the journalists from verifying science. Therefore, unreliable science is being reported.
+
+Figdor is addressing the issue of inaccurate science being reported because of problems in both the scientific and journalist communities.
+
+Scientific journalism and science function as two separate entities and the current mechanisms don’t allow for each individual field to minimize potential problems which in turn  leads to a lack of epistemic reliability of science and science journalism
+
+Usual pressures of time and audience appeal have
+been ramped up into a hypercompetitive reporting atmosphere
+that incentivizes science “infotainment” 
+
+"For journalists, this would mean overcoming fears that collaboration with sources entails a loss of control and power over the news (Davis, 2009) and that understanding science makes a reporter less capable of reporting it (Nelkin, 1987; Dunwoody, 2008/2014; Wilson, 2000; Nguyen and Lugo-
+Ocando, 2016)." (Figdor, p.5)
+
+If a guy’s got a paper in Nature that’s been subject to
+peer review I have absolutely no qualms about quoting
+everything he says in full and being unquestioning. That
+sounds awful in a way but we’re a high speed operation,
+you know. (Hansen, 1994)
+
+The last paragraph in Epistemic Falures in science draws a parallel between the conflict of interest in science and journalism: "The concept of a conflict of interest, in both research and media ethics, is usually narrowly defined in terms of possible personal gain or loss avoidance. In today’s scientific climate, the primary conflict of interest is between the pursuit of publishability and the pursuit of truth (Nosek et al., 2012). There is an analogous conflict of interest in journalism whenever the ethics of inquiry take a back seat to the imperative of public appeal. This conflict is exacerbated when journalists are unable to satisfy the epistemic norms of their profession, as discussed in the next section."
+
+
+If a guy’s got a paper in Nature that’s been subject to
+peer review I have absolutely no qualms about quoting
+everything he says in full and being unquestioning. That
+sounds awful in a way but we’re a high speed operation,
+you know. (Hansen, 1994)
+
+Innumeracy Should Be the New Illiteracy
+"Numeracy would enable journalists to shift from the blind trust characteristic of the lay stance to a position of justified credence" pg. 5
+
+" Notably, this process requires “interactional expertise”: enough expertise regarding basic categories and concepts to communicate across disciplines, but not the “contributory expertise” that requires the knowledge and skills to perform experiments or develop theory" pg. 5
+
+
+perhaps the difference between scientist and journalists in the world she is advocating is the difference between "interactional expertise" and "contributory expertise" (p5 on the left)
+
+I think that is s p-hacking: they explore many different conclusions that could occur, and report the one that is significant
+
+Figdor touches slightly on the issue of those conflicting cancer headlines:
+"We expect scientific opinions to be based on the best available evidence, but uncertainty framed
+in terms of differences of opinion suggests all scientific opinions are equally valid and evidence is secondary or irrelevant. The practice also lowers the credibility of science journalists (Jensen,
+2008 for cancer news)" (Figdor, p.4)
+
+https://www.nytimes.com/2017/05/23/well/why-chocolate-may-be-good-for-the-heart.html
+
+"Using data from a large Danish health study, researchers have found an association between chocolate consumption and a lowered risk for atrial fibrillation, the irregular heartbeat that can lead to stroke, heart failure and other serious problems. The study is in Heart."
+
+all I had to do was google "benefits of dark chocolate New York times"
+
+Problems in climate science communication illustrate how
+standard journalistic practices can transform reliable science into
+unreliable science news. (p.4)
+
+"They can also create best practice guidelines regarding general issues such as control of narrative structure, advisability of prepublication story review, responsible use of metaphor, framing, headlines, and other rhetorical features, and ways to deal with distinct sources of uncertainty (e.g., lack of clear consensus, a biased publication record in a field, prevalence of QRPs in a field,
+suspected QRPs in a study)." (Figdor p.5)
+
+I looked up the deficit model and basically it's the idea that people are wrong about things because they don't have enough info
+
+so giving opposing views doesn't actually help, she's saying
+
+In Kahan, he calls it the deficit model the "public irrationality thesis"
+
+Figdor actually cites Kahan in this sctionscience illiteracy is the reason behind public opposition to scientific findings, new technology, and environmental action (Kahan et al., 2011 in the U.S., Besley and Nisbet,
+2011 for a more general
+
+understanding science makes a reporter less capable of reporting it ?????
+
+Yes, that is what I meant. I did not mean that understanding science makes a reporter less capable of reporting.
+
+I think she's saying that that is the current culture that must change
+
+“Current norms of objective journalism or the “journalism of
+verification” (Kovach and Rosensteil, 2001) sidestep journalistic
+epistemic responsibility. The objective journalist strives for
+verifiable facts, accurate reporting of events, impartial reporting
+and writing, and a detached, impersonal point of view.”  (P.4)
+
+"understanding science makes a reporter less capable of reporting it" was a quote from figdor
