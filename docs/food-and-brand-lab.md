@@ -64,20 +64,24 @@ Now that you've done a first pass reading of the Climate Change Case Study, plea
 
 ## Second Pass Reading
 
-So you've chosen the Climate Change Case Study! Great choice! Definitely among the top 3 best case studies for our topic. 
+So you've chosen the Food and Brand Lab Case Study! Great choice! Definitely among the top 3 best case studies for our topic. 
 
-Re-read ["My Facts Are Better Than Your Facts"](https://drive.google.com/file/d/1cEDdQWghPJPJSmYK4vVptbFCUdk8yEbE/view?usp=sharing){:target="_blank"} and perform a detailed second-pass reading. Annotate this textbook chapter like we did for our framing pieces. This will likely take an additional 1.5-2.5 hours. Please take this time to carefully go through the subtle details this book chapter.
+Re-read ["Here’s How Cornell Scientist Brian Wansink Turned Shoddy Data Into Viral Studies About How We Eat"](https://drive.google.com/file/d/1geUN4k-SDrxAK9kMH0W6bxkMbUFPJlgI/view?usp=sharing){:target="_blank"} and perform a detailed second-pass reading. Annotate this article like we did for our framing pieces. Also identify a few other important pieces of the case study and annotate them as well. This will likely take an additional 1.5-2.5 hours. Please take this time to carefully go through the subtle details this case study.
 
 **Once you finish annotating**, please upload your annotations/notes [here at this Google Form](https://forms.gle/fDgz88KimHer7tEF7){:target="_blank"}.
 
 #### Discussion questions
 
-After annotating and before class on Monday, think of aspects of Oreskes work that you'd like to discuss with others. As with the previous readings, a good place to start is with the main ideas:
+After annotating and before class on Monday, think of aspects of the case study that you'd like to discuss with others. As with the previous readings, a good place to start is with the main ideas:
 
-+ In your own words, summarize the problem that Oreskes is trying to address.
++ In your own words, summarize the events in the case study.
 
-+ What are the main claims Oreskes puts forward?
++ What role did journalists play in the case study? What's different about the type of writing Martha White was doing compared to Stephanie Lee?
 
-+ What aspects of Oreskes seem unclear to you? What would you like to discuss with your classmates?
++ What role did scientists play in the case study?
 
-+ What are ways that Oreskes connects to Kahan? Find specific textual evidence from both to support the connection.
++ What are ways that the case study connects to Figdor? Find specific textual evidence from both to support the connection.
+
++ What are ways that the case study connects to Kahan? Find specific textual evidence from both to support the connection.
+
+**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready). **
