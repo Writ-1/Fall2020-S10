@@ -11,5 +11,5 @@ After you make your decision, then go back to that case study and perform a deta
 With that overview out of the way, please start on your first-pass reading of the case studies:
 
 1. [Climate Change](climate-change)
-2. Food and Brand Lab
+2. [Food and Brand Lab](food-and-brand-lab)
 3. Shrimp Fight Club
