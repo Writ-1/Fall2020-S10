@@ -52,6 +52,7 @@ Re-read ["My Facts Are Better Than Your Facts"](https://drive.google.com/file/d/
 
 **Once you finish annotating**, please upload your annotations/notes [here at this Google Form](https://forms.gle/fDgz88KimHer7tEF7){:target="_blank"}.
 
+
 #### Discussion questions
 
 After annotating and before class on Monday, think of aspects of Oreskes work that you'd like to discuss with others. As with the previous readings, a good place to start is with the main ideas:
@@ -63,3 +64,10 @@ After annotating and before class on Monday, think of aspects of Oreskes work th
 + What aspects of Oreskes seem unclear to you? What would you like to discuss with your classmates?
 
 + What are ways that Oreskes connects to Kahan? Find specific textual evidence from both to support the connection.
+
++ What are ways that Oreskes connects to Figdor? Find specific textual evidence from both to support the connection.
+
+
+**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready). **
+
+
