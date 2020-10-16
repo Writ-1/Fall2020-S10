@@ -26,8 +26,4 @@
 
 ## Case Studies
 
-1. Climate Change
-2. Food and Brand Lab
-3. Shrimp Fight Club
 
-Case study reading guides (due Monday October 19, 8:55am PT)
