@@ -1,13 +1,15 @@
 # Shrimp Fight Club
 
-In this case study, the main reading/listening is a Planet Money podcast:
-
+In this case study, there are two main readings
 
 
 Feder, E. & Minoff, A. (2017, June 1). Episode 779: Shrimp Fight Club. Planet Money [audio Podcast]. Retrieved from ```https://www.npr.org/sections/money/2017/06/21/533840751/episode-779-shrimp-fightclub```
 
 [listen here; ](https://www.npr.org/sections/money/2017/06/21/533840751/episode-779-shrimp-fight-club){:target="_blank"}[transcript text here](https://www.npr.org/transcripts/533840751){:target="_blank"}
 
+<br>
+
+Senator Flake publishes his Wastebook featuring Patek and Green's research |[pdf version](https://drive.google.com/file/d/13hx1a9hYg5J9rHu55y8TeQn_zBMWw_wC/view?usp=sharing){:target="_blank"} 
 
  
 ## Overview and First-Pass Reading
@@ -88,7 +90,7 @@ Now that you've done a first pass reading of the Shrimp Fight Case Study, you no
 
 So you've chosen the Shrimp Fight Club Case Study! Great choice! Definitely among the top 3 best case studies for our topic. 
 
-Re-read the podcast transcript and perform a detailed second-pass reading. Annotate this transcript like we did for our framing pieces. Also identify a the other important pieces of the case study and annotate them as well. We recommend that you include the original popular media articles in your detailed reading too. This will likely take an additional 1.5-2.5 hours. Please take this time to carefully go through the subtle details this case study. If you are interested in focusing on the communication of the scientists in this case study, you might want to read our [optional framing piece by Peters.](https://drive.google.com/file/d/1nTbDkYG9xOuR6R7RGF9Q39O8aDUj4zFv/view?usp=sharing){:target="_blank"}
+Re-read the podcast transcript and perform a detailed second-pass reading. Annotate this transcript like we did for our framing pieces. Also identify a the other important pieces of the case study and annotate them as well. We recommend that you include the original popular media articles in your detailed reading too. This will likely take an additional 1.5-2.5 hours. Please take this time to carefully go through the subtle details this case study. If you are interested in focusing on the interactions between scientists and the popular media in this case study, you might want to read our [optional framing piece by Peters.](https://drive.google.com/file/d/1nTbDkYG9xOuR6R7RGF9Q39O8aDUj4zFv/view?usp=sharing){:target="_blank"}
 
 **Once you finish annotating**, please upload your annotations/notes [here at this Google Form](https://forms.gle/fDgz88KimHer7tEF7){:target="_blank"}.
 
