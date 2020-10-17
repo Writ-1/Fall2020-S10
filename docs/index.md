@@ -31,4 +31,9 @@
 
 ## Case Studies
 
+Your assignment this weekend is [the case study overview](case-study-overview).
+
+(Due Sunday October 18, 9pm PT).
+
+
 

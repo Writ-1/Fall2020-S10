@@ -39,7 +39,7 @@ Dec. 21, 2015 | Popular media article in ```money.com``` by Martha C. White cove
 April 2017 | Wansink publishes a note on the Food and Brand Lab website about research practices after peers raised questions about his research | [internet archive web link; ](https://web.archive.org/web/20180405152607/https://foodpsychology.cornell.edu/research-statement-april-2017){:target="_blank"}[pdf version](https://drive.google.com/file/d/1XgwlUVWnnTu9HRcKlX3lLRVsx8eRtUwb/view?usp=sharing){:target="_blank"}
 September 2017 | BMC Nutrition retracts the original research article |
 February 2018 | Stephanie Lee writes an investigate article that further uncovers extent of Wansink's questionable research  | [web link; ](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking){:target="_blank"} [pdf version](https://drive.google.com/file/d/1geUN4k-SDrxAK9kMH0W6bxkMbUFPJlgI/view?usp=sharing){:target="_blank"}
-September 2018 | Stephanie Lee reports on Wansink's resignation | [web link; ](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-retired-cornell)[pdf version](https://drive.google.com/file/d/17f436NIUd0RKd8MQzox_EQm1gGTa19n5/view?usp=sharing){:target="_blank"}
+September 2018 | Stephanie Lee reports that Wansink will resign from his position effective June 2019  | [web link; ](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-retired-cornell)[pdf version](https://drive.google.com/file/d/17f436NIUd0RKd8MQzox_EQm1gGTa19n5/view?usp=sharing){:target="_blank"}
 
 #### First-pass reading
 
@@ -56,12 +56,12 @@ After your 30 minutes are up, please attempt the following question:
 </iframe>
 <br>
 
-Now that you've done a first pass reading of the Climate Change Case Study, please proceed to case study [3. Shrimp Fight Club](shrimp-fight-club).
+Now that you've done a first pass reading of the Food and Brand Lab Case Study, please proceed to case study [3. Shrimp Fight Club](shrimp-fight-club).
 
 <br> 
 
 
-**Stop here, unless you have completed all of the other case study first-pass readings and have chosen to focus on Climate Change as your selected case study.**
+**Stop here, unless you have completed all of the other case study first-pass readings and have chosen to focus on the Food and Brand Lab as your selected case study.**
 
 <br>
 
