@@ -68,6 +68,6 @@ After annotating and before class on Monday, think of aspects of Oreskes work th
 + What are ways that Oreskes connects to Figdor? Find specific textual evidence from both to support the connection.
 
 
-**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready). **
+**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready).**
 
 

@@ -100,7 +100,7 @@ After annotating and before class on Monday, think of aspects of the case study 
 
 + What role did journalists play in the case study? 
 
-+ 
++ Carefully examining the popular media articles from Simon and Yong, can you identify any common journalistic practices they are using in their articles?
 
 + What role did scientists play in the case study?
 
@@ -112,4 +112,4 @@ After annotating and before class on Monday, think of aspects of the case study 
 
 + What are ways that the case study connects to Kahan? Find specific textual evidence from both to support the connection.
 
-**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready). **
+**These last two questions will seed our discussion on Monday. Please prepare typed answers to them so you can easily collaborate with your classmates (you will copy-paste these answers into a shared Google Doc, so please have them ready).**
