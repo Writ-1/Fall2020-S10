@@ -83,7 +83,8 @@ After annotating and before class on Monday, think of aspects of the case study 
 
 + What role did journalists play in the case study? What's different about the type of writing Martha White was doing compared to Stephanie Lee?
 
-+ What role did scientists play in the case study? Think of both the scientists in Wansink's lab, and external scientists as well.
++ What parts did scientists play in the events described in this case study?
+ Think of both the scientists in Wansink's lab, and external scientists as well.
 
 + What are ways that the case study connects to Figdor? Find specific textual evidence from both to support the connection.
 
