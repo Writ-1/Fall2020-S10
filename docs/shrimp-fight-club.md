@@ -106,8 +106,6 @@ After annotating and before class on Monday, think of aspects of the case study 
 
 + What parts did scientists play in the case study?
 
-+ What role did the NSF play in the case study?
- 
 + What items from the case study did the Wastebook cite?
 
 + What are ways that the case study connects to Figdor? Find specific textual evidence from both to support the connection.
