@@ -98,11 +98,11 @@ After annotating and before class on Monday, think of aspects of the case study 
 
 + In your own words, summarize the events in the case study.
 
-+ What role did journalists play in the case study? 
++ What parts did journalists play in the case study? 
 
 + Carefully examining the popular media articles from Simon and Yong, can you identify any common journalistic practices they are using in their articles?
 
-+ What role did scientists play in the case study?
++ What parts did scientists play in the case study?
 
 + What role did the NSF play in the case study?
  
